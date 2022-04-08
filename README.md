@@ -1,16 +1,15 @@
-# quiz
+# Quiz matemático
 
-A new Flutter project.
+Desenvolvido por alunos da Universidade Federal de Catalão na matéria de Fábrica de Software durante o sementes 2021.2, ministrada pela Prof. Dra. Luanna Lopes Lobato.
 
-## Getting Started
+KAIO BORGES NASCIMENTO
+kaiobnasc@discente.ufcat.edu.br
 
-This project is a starting point for a Flutter application.
+LUCAS ANTONIO PAIVA REZENDE SOUSA 
+lucas.rzd@discente.ufcat.edu.br
 
-A few resources to get you started if this is your first Flutter project:
+MATEUS BONFIM DE SOUZA
+mateusbonfim6@discente.ufcat.edu.br
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+VITOR WALTER JUNQUEIRA GONCALVES
+vitorwalter@discente.ufcat.edu.br
